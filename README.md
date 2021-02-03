@@ -19,6 +19,8 @@ TD: C-x(3)-C-x(2)-C-x(30,40)-[HSRGEAKTVD]-[VILMFYWHKTA]-D-[VILMFYWHKTA]-[VAGSTDN
 
 NA: no motifs matched
 
+## BioB_Uniprot_Motif_Datav2.R
 All data clean-up and manipulation was done in R
 
-## BioB_Uniprot_Motif_Datav2.R
+## BioB_motifs_clean.csv
+A cleaned-up .csv file with Identifieds, seqeunces, phyologeny and motif identifiers
