@@ -1,4 +1,4 @@
-# BioB
+# Type II BioB
 Data and code used for Type II BioB publication
 
 # Description of data
