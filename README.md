@@ -1,5 +1,5 @@
 # Type II BioB
-Data and code used for Type II BioB publication
+Chapter II of the Ph.D. - A novel and widespread Type of Biotin Synthase does not sacrifice an iron-sulfur cluster for sulfur-insertion
 
 # Description of data
 UniProtKB/Swiss-Prot and TrEMBL UniProt release 2020_05 to fetch all sequences annotated with “family:biotin family:synthase”, including phylogenetic tags
